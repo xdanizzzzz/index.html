@@ -1,0 +1,6 @@
+HTML
+<nav>
+  <a href="index.html">início</a>
+  <a href="noticias.html">notícias</a>
+  <a href="sobre.html">Sobre</a>
+</nav>
