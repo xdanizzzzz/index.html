@@ -1,0 +1,11 @@
+body {
+  background-color: black;
+  color: white;
+  font-family: Arial;
+  text-align: center;
+}
+nav a {
+  margin: 10px;
+  color: cyan;
+  text-decoration: none;
+}
